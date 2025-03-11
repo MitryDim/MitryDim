@@ -58,7 +58,7 @@
 
 ### 🛠️ Langages les plus utilisés  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitryDim&layout=compact&theme=radical" alt="Langages les plus utilisés" />
 </p>
 
 
