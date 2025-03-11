@@ -2,7 +2,7 @@
 <h3 align="center">Étudiant en Master 2 Développement Logiciel et Web</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tonpseudo&label=Profile%20views&color=0e75b6&style=flat" alt="visiteurs" />
+  <img src="https://komarev.com/ghpvc/?username=MitryDim&label=Profile%20views&color=0e75b6&style=flat" alt="visiteurs" />
 </p>
 
 ---
