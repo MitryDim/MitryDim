@@ -56,6 +56,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MitryDim&theme=radical" alt="Streak GitHub" />
 </p>
 
+### 🛠️ Langages les plus utilisés  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
+
+
 ---
 
 ### 🌍 Où me retrouver ?  
